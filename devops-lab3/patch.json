@@ -1,0 +1,1 @@
+{"spec":{"template":{"spec":{"containers":[{"name":"ex3-flask-app","imagePullPolicy":"IfNotPresent"}]}}}}
